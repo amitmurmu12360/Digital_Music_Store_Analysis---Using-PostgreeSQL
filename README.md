@@ -58,7 +58,7 @@ The primary objectives of this project are to answer several data-driven questio
  
 ## SQL Queries
 
-SAL_Querries for Solutions 
+SQL_Querries for Solutions 
 
  --> for the solution refer to the problem & solution page 
 
